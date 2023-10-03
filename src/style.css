@@ -81,8 +81,8 @@ body {
   position: absolute;
   width: 44.7rem;
   height: 24.5rem;
-  top: 17%;
-  left: 20%;
+  top: 15%;
+  left: 17%;
   border-radius: 1rem;
   z-index: 2;
 }
@@ -125,8 +125,8 @@ body {
   height: 24.5rem;
   border-radius: 1rem;
   position: absolute;
-  bottom: 25%;
-  left: 25%;
+  bottom: 15%;
+  left: 22%;
 }
 
 .back__number {
@@ -275,7 +275,7 @@ body {
     width: 100vw;
   }
   .form__box {
-    padding: 12rem 2rem 0;
+    padding: 10rem 2rem 2;
   }
 }
 
@@ -389,7 +389,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 3rem;
-    padding: 5rem 2rem;
+    padding: 12rem 2rem 2rem;
     /* width: 80%; */
   }
   .success__logo {
